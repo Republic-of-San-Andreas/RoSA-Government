@@ -5,7 +5,7 @@
 *This script does **NOT** record or send pictures/videos to a discord!*
 
 ## How To Install!
-- Drag & Drop `LENT-Electrician` in your resources folder
+- Drag & Drop `RoSA-Government` in your resources folder
     - Make any changes to the [Config](./shared/sh_config.lua)
 
 ## Contributors
